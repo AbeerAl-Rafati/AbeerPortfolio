@@ -180,10 +180,10 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Buss-Mall
+                            Easy Resume
                           </h6>
                           <p className="description mt-3">
-                            A Random pic count game .
+                            A wibsite help you to creat a resume in few steps .
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -199,7 +199,7 @@ class Landing extends React.Component {
                           <Button
                             className="mt-4"
                             color="success"
-                            href="https://abeeral-rafati.github.io/buss-mall/"
+                            href="https://madqm.github.io/Easy-Resume-update-version/"
 
                           >
                             Go >>
@@ -347,7 +347,7 @@ class Landing extends React.Component {
                               API
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              Server/Cache
+                              Express
                             </Badge>
                           </div>
                           <Button
