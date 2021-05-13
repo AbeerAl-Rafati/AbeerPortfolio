@@ -29,6 +29,8 @@ import Landing from "views/examples/Landing.js";
 import Profile from "views/examples/Profile.js";
 // import Register from "views/examples/Register.js";
 
+
+
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
